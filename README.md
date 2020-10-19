@@ -1,6 +1,6 @@
-# Merge Sort!
+# Quick Sort!
 
-Merge Sort like Quick Sort is an algorithm from the Divide and Conquer group.
+Quick Sort like Merge Sort is an algorithm from the Divide and Conquer group.
 It picks an element as pivot and partitions the given array around the picked pivot.  There are many different versions of quickSort that pick pivot in different ways.
 
 1.  Always pick first element as pivot.
